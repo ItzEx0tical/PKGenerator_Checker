@@ -1,4 +1,4 @@
-ecdsa
+ecdsa[gmpy2]
 base58
 requests
 cfscrape
